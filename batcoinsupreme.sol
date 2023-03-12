@@ -712,7 +712,7 @@ contract BATCOINSUPREME is IBEP20, Auth {
     event AutoLiquify(uint256 amountNATIVE, uint256 amountNAME);
 }
 
-// 8080808080808080808080808080808080808080808080 LEGAL DESCLAIMER 0808080808080808080808080808080808080808080808080
+// 8080808080808080808080808080808080808080808080 LEGAL DISCLAIMER 0808080808080808080808080808080808080808080808080
 // This is a decentralzed development project and open to any posibilities. When trading is open, this will be 
 // highly volatile and must trade at your own risk. You agree that you are not purchasing batcoin token a security 
 // or investment. The Batcoin Supreme Core cannot be held liable for any losses or taxes you may incur. You also agree that 
